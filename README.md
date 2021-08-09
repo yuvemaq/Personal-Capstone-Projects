@@ -2,7 +2,7 @@
 ## Index
  This repository contains all of my capstones for the Springboard curriculum. 
 
-1. [Tree Canopy Percentage Air Quality Correlation to COPD Asthma and Lung Cancer Project](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Tree-Canopy-Percentage-Air-Quality-Correlation-to-COPD-Asthma-and-Lung-Cancer-Project-main)
+1. [Tree Canopy Percentage Air Quality Correlation to Acute Respiratory Illnesses Project](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Tree-Canopy-Percentage-Air-Quality-Correlation-to-COPD-Asthma-and-Lung-Cancer-Project-main)
 3. [Traditional vs. Non-Traditional Burial Analysis](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Capstone-Traditional-vs-Nontraditional-Burial-Analysis-main)
 
 Each capstone is accompanied by some form of documentation. 

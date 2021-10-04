@@ -5,6 +5,7 @@
 1. [Tree Canopy Percentage Air Quality Correlation to Acute Respiratory Illnesses Project](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Tree-Canopy-Percentage-Air-Quality-Correlation-to-COPD-Asthma-and-Lung-Cancer-Project-main)
 2. [Traditional vs. Non-Traditional Burial Analysis](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Capstone-Traditional-vs-Nontraditional-Burial-Analysis-main)
 3. [Trend Forecasting](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Trend%20Forecasting)
+4. [Estimating when four natural resources will be depleted](https://github.com/yuvemaq/Personal-Capstone-Projects/tree/main/Estimating%20when%20four%20natural%20resources%20will%20be%20depleted)
 
 Each capstone is accompanied by some form of documentation. 
 

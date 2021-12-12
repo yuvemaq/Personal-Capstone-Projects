@@ -1,4 +1,4 @@
-# Personal Capstone Projects
+# Personal and Capstone Projects
 ## Index
  This repository contains all of my capstones for the Springboard curriculum as well as any personal projects. 
 

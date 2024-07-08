@@ -23,4 +23,4 @@ Now I focus on conducting analysis on subjects that engage me and honing my prog
 | Contact Method |  |
 | --- | --- |
 | Professional Email | ymaq203@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/yvonnemaeq/ |
+| LinkedIn | https://www.linkedin.com/in/yvonnemaek/ |
